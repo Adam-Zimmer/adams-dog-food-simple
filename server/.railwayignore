@@ -1,0 +1,10 @@
+../src
+../public
+../index.html
+../vite.config.ts
+../tsconfig.*.json
+../.git
+../node_modules
+../dist
+../package.json
+../package-lock.json
